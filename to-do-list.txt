@@ -1,0 +1,5 @@
+1. Organise desktop
+2. Learn how to use github
+3. Create a list of projects
+4. Make a list of all my code and where it lives- put into github
+5. Explore google earth engine and see if it's goingto be useful
